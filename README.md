@@ -9,12 +9,12 @@ This code represents a text generation model based on a recurrent neural network
 
 # Installation
 1. Clone the repository:
-   shell 
+    
 **git clone https://github.com/your_username/text-generation-model.git**
 
    
 3. Navigate to the project directory:
-   shell
+   
    **cd text-generation-model**
 
 
