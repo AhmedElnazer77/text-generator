@@ -7,6 +7,23 @@ This code represents a text generation model based on a recurrent neural network
 - Transformers library (version X.X.X)
 - Other dependencies (specified in requirements.txt)
 
+# Installation
+1. Clone the repository:
+   shell 
+**git clone https://github.com/your_username/text-generation-model.git**
+
+   
+3. Navigate to the project directory:
+   shell
+   **cd text-generation-model**
+
+
+# Dataset Preparation
+- The code reads multiple text files representing different books from the "Harry Potter" series.
+- The contents of these files are concatenated and saved as a single text file named "harrypotter.txt".
+- The script then reads the contents of "harrypotter.txt" and performs some initial data preprocessing.
+
+
 # Model Usage
 - After training, the model weights are loaded from the latest checkpoint.
 - The generate_text function is used to generate new text based on a given starting string.
