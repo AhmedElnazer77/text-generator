@@ -2,20 +2,24 @@
 # Text Generation Model
 This code represents a text generation model based on a recurrent neural network (RNN) with GRU (Gated Recurrent Unit) layers. The model is trained on the "Harry Potter" book series.
 # Requirements
-- Python 3.x
-- TensorFlow (version X.X.X)
-- Transformers library (version X.X.X)
+- Python 3.9
+- TensorFlow (version 2.14.0)
+- Transformers library (version 4.35.0)
 - Other dependencies (specified in requirements.txt)
 
 # Installation
 1. Clone the repository:
     
-**git clone https://github.com/your_username/text-generation-model.git**
+    **git clone https://github.com/your_username/text-generation-model.git**
 
    
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    
    **cd text-generation-model**
+
+3. Install the dependencies:
+
+     pip install -r requirements.txt
 
 
 # Dataset Preparation
