@@ -1,9 +1,14 @@
 # text-generator
-Text Generation Model
-This repository contains a text generation model based on the GPT-3.5 architecture. The model is trained using the OpenAI GPT-3.5 dataset up until September 2021.
+# Text Generation Model
+This code represents a text generation model based on a recurrent neural network (RNN) with GRU (Gated Recurrent Unit) layers. The model is trained on the "Harry Potter" book series.
+# Requirements
+- Python 3.x
+- TensorFlow (version X.X.X)
+- Transformers library (version X.X.X)
+- Other dependencies (specified in requirements.txt)
 
-Requirements
-Python 3.x
-TensorFlow (version X.X.X)
-Transformers library (version X.X.X)
-Other dependencies (specified in requirements.txt)
+
+
+# Usage
+1. Make sure you have the required version of TensorFlow installed.
+2. Execute the code to train the model and generate text.
