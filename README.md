@@ -19,7 +19,7 @@ This code represents a text generation model based on a recurrent neural network
 
 3. Install the dependencies:
 
-     pip install -r requirements.txt
+     **pip install -r requirements.txt**
 
 
 # Dataset Preparation
